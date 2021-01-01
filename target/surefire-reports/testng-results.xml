@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Page Object Model" duration-ms="15557" started-at="2021-01-01T16:41:47Z" finished-at="2021-01-01T16:42:02Z">
+    <groups>
+    </groups>
+    <test name="Login Test" duration-ms="2515" started-at="2021-01-01T16:41:47Z" finished-at="2021-01-01T16:41:49Z">
+      <class name="com.learning.testcases.LoginTest">
+        <test-method status="PASS" signature="loginTest(java.util.Hashtable)[pri:0, instance:com.learning.testcases.LoginTest@114a85c2]" name="loginTest" duration-ms="2045" started-at="2021-01-01T22:11:47Z" data-provider="dp" finished-at="2021-01-01T22:11:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{RunMode=Y, password=HelloZoho@123, username=rajatvermaa85@gmail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.learning.testcases.LoginTest -->
+    </test> <!-- Login Test -->
+    <test name="Create Account Test" duration-ms="12934" started-at="2021-01-01T16:41:49Z" finished-at="2021-01-01T16:42:02Z">
+      <class name="com.learning.testcases.CreateAccountTest">
+        <test-method status="PASS" signature="createAccountTest(java.util.Hashtable)[pri:0, instance:com.learning.testcases.CreateAccountTest@59fc684e]" name="createAccountTest" duration-ms="12873" started-at="2021-01-01T22:11:49Z" data-provider="dp" finished-at="2021-01-01T22:12:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{accountname=Rajat}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccountTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.learning.testcases.CreateAccountTest@59fc684e]" name="tearDown" is-config="true" duration-ms="4492" started-at="2021-01-01T22:12:02Z" finished-at="2021-01-01T22:12:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.learning.testcases.CreateAccountTest -->
+    </test> <!-- Create Account Test -->
+  </suite> <!-- Page Object Model -->
+</testng-results>

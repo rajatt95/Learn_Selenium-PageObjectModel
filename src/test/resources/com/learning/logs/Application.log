@@ -1,0 +1,11 @@
+01/01/2021 22:11:37 devpinoyLogger Config file loaded !!!
+01/01/2021 22:11:37 devpinoyLogger OR file loaded !!!
+01/01/2021 22:11:48 devpinoyLogger Clicking on element: homePage.login.link
+01/01/2021 22:11:48 devpinoyLogger Typing in and Element: loginPage.email.textBox and entered value: rajatvermaa85@gmail.com
+01/01/2021 22:11:48 devpinoyLogger Clicking on element: loginPage.email.next.button
+01/01/2021 22:11:49 devpinoyLogger Typing in and Element: loginPage.password.textBox and entered value: HelloZoho@123
+01/01/2021 22:11:49 devpinoyLogger Clicking on element: loginPage.signIn.button
+01/01/2021 22:12:00 devpinoyLogger Clicking on element: zohoAppPage.crm.link
+01/01/2021 22:12:00 devpinoyLogger Clicking on element: crm.accounts.tab
+01/01/2021 22:12:02 devpinoyLogger Clicking on element: crm.createAccount.button
+01/01/2021 22:12:02 devpinoyLogger Typing in and Element: crm.createAccount.accountName.textBox and entered value: Rajat
